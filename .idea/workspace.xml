@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc41d34b-542f-497e-9f89-9bf0c1e7f7f8" name="변경" comment="" />
+    <list default="true" id="dc41d34b-542f-497e-9f89-9bf0c1e7f7f8" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20241011.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -19,9 +48,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.DayOfWeek.executor": "Run",
+    "애플리케이션.Question1.executor": "Run",
+    "애플리케이션.Question2.executor": "Run",
+    "애플리케이션.Question3.executor": "Run",
+    "애플리케이션.Question4.executor": "Run",
+    "애플리케이션.Question5.executor": "Run",
+    "애플리케이션.Question6.executor": "Run",
+    "애플리케이션.Question7.executor": "Run",
+    "애플리케이션.Question8.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -40,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728615140761</updated>
-      <workItem from="1728615141807" duration="1000" />
+      <workItem from="1728615141807" duration="1986000" />
     </task>
     <servers />
   </component>
